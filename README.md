@@ -74,8 +74,8 @@
 <br/>
 
 <!-- Profile View Counter -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fuadraihan10&label=Profile%20Views&color=blue&style=flat)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuadraihan10&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/fuadraihan10?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/fuadraihan10?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
