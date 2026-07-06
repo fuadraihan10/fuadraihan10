@@ -8,6 +8,8 @@
     <img src="./source/bangladesh.svg" alt="Bangladesh" width="22" />
   </h4>
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=fuadraihan10&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true" />
 
 <hr/>
 
