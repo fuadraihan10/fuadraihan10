@@ -52,7 +52,8 @@
 
 <!-- Statistics -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true" style="display: inline-block; width: 100%;/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true"
+     style="display: inline-block; width: 100%;" />
 </div>
 
 <br/>
