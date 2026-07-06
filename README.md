@@ -30,6 +30,8 @@
 </div>
 
 <br/>
+<hr/>
+<br/>
 
 <div align="center">
 
@@ -42,11 +44,15 @@
 </div>
 
 <br/>
+<hr/>
+<br/>
 
 <!-- Statistics -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=aura&hide_border=true" style="display: inline-block; width: 100%;" />
 </div>
+
+<br/>
 
 <!-- GitHub Snake -->
 <div align="center">
@@ -57,10 +63,15 @@
 </picture>
 </div>
 
+<br/>
+<hr/>
+
 <!-- GitHub Quote -->
 <div align="center" style="margin-top: 30px;">
   <img style="display: inline-block;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
 </div>
+
+<br/>
 
 <!-- Profile View Counter -->
 <div align="center">
