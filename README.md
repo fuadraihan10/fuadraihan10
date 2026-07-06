@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-  <p align="center">
-    <strong>Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻</strong>
-  </p>
-  <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" style="margin-top: 6px;" />
+  <p><b>Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻</b></p>
+  <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" />
 </div>
 
 <br/>
@@ -14,9 +12,9 @@
   <tr>
     <!-- LEFT COLUMN: TECH STACK -->
     <td width="50%" valign="top">
-      <h2>💻 Tech Stacks ⚡</h2>
-      
-      <h4>🌐 Frontend & Core</h4>
+      <h3>💻 Tech Stacks ⚡</h3>
+      <br />
+      <p><b>🌐 Frontend & Core</b></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,8 +24,8 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       </p>
-      
-      <h4>⚙️ Backend & Hardware</h4>
+      <br />
+      <p><b>⚙️ Backend & Hardware</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -35,8 +33,8 @@
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
       </p>
-      
-      <h4>🛠️ Tools & Ecosystem</h4>
+      <br />
+      <p><b>🛠️ Tools & Ecosystem</b></p>
       <p>
         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -51,11 +49,12 @@
     </td>
     
     <!-- SPACE COLUMN -->
-    <td width="4%"></td>
+    <td width="5%"></td>
     
     <!-- RIGHT COLUMN: METRICS & CARDS -->
-    <td width="46%" valign="top">
-      <h2>📊 Analytics & Fun ⚡</h2>
+    <td width="45%" valign="top">
+      <h3>📊 Analytics & Fun ⚡</h3>
+      <br />
       <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true" width="100%" />
       </p>
@@ -83,9 +82,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
