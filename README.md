@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad Raihan</h1>
-	<h4 align="center">I am a programmer from Bangladesh.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
+  <h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
+	<h4 align="center">I am a Front-End Developer and AI Enthusiast, Grade 9 student (SSC 2028) 🚀💻.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
 </div>
 <hr/>
 <br/>
