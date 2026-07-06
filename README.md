@@ -1,13 +1,12 @@
-<div>
-  <h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-	<h4 align="center">I am a Web Developer and AI Enthusiast, Grade 9 student (SSC 2028) 💻.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
+<div align="center">
+  <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
+  <h4>I am a Web Developer and AI Enthusiast, Grade 9 student (SSC 2028) 💻.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
 </div>
-<hr/>
-<br/>
 
+<hr/>
 
 <div align="center">
-  
+
 ## 💻 Tech Stacks ⚡
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,9 +27,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
+
+<br/>
 
 <div align="center">
-  
+
 ## 🌐 Connect with Me 🍬
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.fuadraihan@gmail.com)
@@ -39,23 +41,23 @@
 
 </div>
 
+<br/>
+
 <!-- Statistics -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=aura&hide_border=true" style="display: inline-block; width: 100%;" />
 </div>
 
-<!-- GitHub Snake  -->
+<!-- GitHub Snake -->
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" />
   <img style="width: 100%; display: inline-block;" alt="github-snake" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" />
 </picture>
-
 </div>
 
-<!-- GitHub Quote  -->
+<!-- GitHub Quote -->
 <div align="center" style="margin-top: 30px;">
   <img style="display: inline-block;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
 </div>
@@ -66,5 +68,3 @@
 [![Profile](https://visitcount.itsvg.in/api?id=fuadraihan10&icon=0&color=0)]()
 
 </div>
-
-
