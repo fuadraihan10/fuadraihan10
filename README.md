@@ -8,6 +8,8 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stacks ⚡
 
 ### 🌐 Frontend & Core
@@ -18,6 +20,8 @@
 
 ### 🛠️ Tools & Ecosystem
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
 
 <br/>
 
@@ -35,9 +39,13 @@
 
 ---
 
+<div align="center">
+
 ## 📊 Analytics & Fun
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true)
+
+<br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -50,6 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" width="100%" />
 </picture>
+
+</div>
 
 <br/>
 
