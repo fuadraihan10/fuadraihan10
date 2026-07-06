@@ -76,6 +76,6 @@
 <!-- Profile View Counter -->
 <div align="center">
 
-[![Profile](https://visitcount.itsvg.in/api?id=fuadraihan10&icon=0&color=0)]()
+![Profile Views](https://komarev.com/ghpvc/?username=fuadraihan10&label=Profile%20Views&color=blue&style=flat)
 
 </div>
