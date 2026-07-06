@@ -5,12 +5,11 @@
 
   <h4>
     Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻
-    <img src="./source/bangladesh.svg" alt="Bangladesh" width="22" />
+    <img src="./source/bangladesh.svg" alt="Bangladesh" width="22" height="33" />
   </h4>
 </div>
 
 
-<hr/>
 
 <div align="center">
 
@@ -37,8 +36,6 @@
 </div>
 
 <br/>
-<hr/>
-<br/>
 
 <div align="center">
 
@@ -51,8 +48,7 @@
 </div>
 
 <br/>
-<hr/>
-<br/>
+
 
 <!-- Statistics -->
 <div align="center">
@@ -75,8 +71,6 @@
 </div>
 
 <br/>
-<hr/>
-
 <!-- GitHub Quote -->
 <div align="center" style="margin-top: 30px;">
   <img style="display: inline-block;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
