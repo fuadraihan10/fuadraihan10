@@ -1,12 +1,9 @@
 <div align="center">
   <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-  <h3>Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻</h3>
-  <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" />
+  <h3>Web Developer • AI Enthusiast | Student (SSC 2028) </h3> <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" />
+  
 </div>
 
-<br/>
-
----
 
 <div align="center">
 
