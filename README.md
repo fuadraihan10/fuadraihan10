@@ -9,7 +9,9 @@
   </h4>
 </div>
 
+<br/>
 
+---
 
 <div align="center">
 
@@ -17,7 +19,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,6 +39,8 @@
 
 <br/>
 
+---
+
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
@@ -49,14 +53,17 @@
 
 <br/>
 
+---
 
 <!-- Statistics -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true"
-     style="display: inline-block; width: 100%;" />
+       style="display: inline-block; width: 100%;" />
 </div>
 
 <br/>
+
+---
 
 <!-- GitHub Snake -->
 <div align="center">
@@ -72,12 +79,17 @@
 </div>
 
 <br/>
+
+---
+
 <!-- GitHub Quote -->
 <div align="center" style="margin-top: 30px;">
-  <img style="display: inline-block;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
 </div>
 
 <br/>
+
+---
 
 <!-- Profile View Counter -->
 <p align="center">
