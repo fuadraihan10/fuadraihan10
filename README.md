@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-  <p><b>Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻</b></p>
+  <h3>Web Developer • AI Enthusiast • Grade 9 Student (SSC 2028) 💻</h3>
   <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" />
 </div>
 
@@ -8,63 +8,16 @@
 
 ---
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- LEFT COLUMN: TECH STACK -->
-    <td width="50%" valign="top">
-      <h3>💻 Tech Stacks ⚡</h3>
-      <br />
-      <p><b>🌐 Frontend & Core</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DFE1?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      </p>
-      <br />
-      <p><b>⚙️ Backend & Hardware</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <br />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-      </p>
-      <br />
-      <p><b>🛠️ Tools & Ecosystem</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-        <br />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-        <br />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-      </p>
-    </td>
-    
-    <!-- SPACE COLUMN -->
-    <td width="5%"></td>
-    
-    <!-- RIGHT COLUMN: METRICS & CARDS -->
-    <td width="45%" valign="top">
-      <h3>📊 Analytics & Fun ⚡</h3>
-      <br />
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true" width="100%" />
-      </p>
-      <br />
-      <p align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="Quote" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 💻 Tech Stacks ⚡
+
+### 🌐 Frontend & Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend & Hardware
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### 🛠️ Tools & Ecosystem
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br/>
 
@@ -82,15 +35,21 @@
 
 ---
 
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
+## 📊 Analytics & Fun
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fuadraihan10&theme=tokyonight&hide_border=true)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" width="100%" />
+</picture>
 
 <br/>
 
