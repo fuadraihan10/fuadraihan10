@@ -4,9 +4,11 @@
   <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" />
 </div>
 
-<br/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" width="100%" />
+</picture>
 
 <div align="center">
 
@@ -53,11 +55,7 @@
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake.svg" width="100%" />
-</picture>
+
 
 </div>
 
