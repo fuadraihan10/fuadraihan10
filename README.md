@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-	<h4 align="center">I am a Front-End Developer and AI Enthusiast, Grade 9 student (SSC 2028) 💻.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
+	<h4 align="center">I am a Web Developer and AI Enthusiast, Grade 9 student (SSC 2028) 💻.... <img src="./source/bangladesh.svg" alt="Bangladesh" width="25" /></h4>
 </div>
 <hr/>
 <br/>
@@ -32,7 +32,11 @@
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fuad_raihan_) [![Gmail](https://img.shields.io/badge/Gmail-EB4A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.fuadraihan@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-33A1D9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fuad_Raihan)
+## 🌐 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.fuadraihan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fuad_raihan_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 </div>
 
