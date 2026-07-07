@@ -2,20 +2,6 @@
   <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
   <h3>Web Developer • AI Enthusiast | Student (SSC 2028) <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" /> </h3> 
 </div>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
-</p>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadraihan10/fuadraihan10/output/github-snake-dark.svg">
@@ -26,10 +12,7 @@
 </div>
 
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,firebase,git,github&perline=8" />
 </div>
 
 <div align="center">
@@ -57,4 +40,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuadraihan10&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuadraihan10&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuadraihan10&theme=radical" />
+</p>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night" alt="Activity Graph" />
 </p>
