@@ -16,6 +16,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 
 </div>
+<div align="center">
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,firebase,git,github,vscode&perline=9" />
+
+</div>
 
 <div align="center">
 
