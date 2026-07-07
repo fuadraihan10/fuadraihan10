@@ -2,7 +2,9 @@
   <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
   <h3>Web Developer • AI Enthusiast | Student (SSC 2028) <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" /> </h3> 
 </div>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 <div align="center">
 <picture>
