@@ -3,6 +3,9 @@
   <h3>Web Developer • AI Enthusiast | Student (SSC 2028) <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" /> </h3> 
 </div>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fuadraihan10&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
