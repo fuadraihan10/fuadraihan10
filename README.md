@@ -12,7 +12,16 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,firebase,git,github&perline=8" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+
 </div>
 
 <div align="center">
@@ -41,7 +50,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuadraihan10&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuadraihan10&theme=radical" />
 </p>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuadraihan10&theme=tokyo-night" alt="Activity Graph" />
-</p>
+
