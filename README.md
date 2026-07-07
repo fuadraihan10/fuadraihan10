@@ -30,6 +30,7 @@
 
 </div>
 
+--
 
 <div align="center">
 
@@ -39,15 +40,17 @@
 </div>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuadraihan10&style=for-the-badge&color=brightgreen" /> &nbsp;
-  <img src="https://img.shields.io/github/followers/fuadraihan10?style=for-the-badge&color=blue" /> &nbsp;
-  <img src="https://img.shields.io/github/stars/fuadraihan10?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</div>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuadraihan10&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuadraihan10&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuadraihan10&theme=radical" />
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuadraihan10&style=for-the-badge&color=brightgreen" /> &nbsp;
+  <img src="https://img.shields.io/github/followers/fuadraihan10?style=for-the-badge&color=blue" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/fuadraihan10?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</div>
 
