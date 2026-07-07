@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad</h1>
-  <h3>Web Developer • AI Enthusiast | Student (SSC 2028) <img src="./source/bangladesh.svg" alt="Bangladesh" width="35" /> </h3> 
+  <h1>Hi <img src="./source/hello.gif" width="34px" alt="hi"> I'm Fuad <img src="./source/bangladesh.svg" alt="Bangladesh" width="35"/></h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=118C4F&center=true&vCenter=true&width=900&lines=Web+Developer;AI+Enthusiast;Student+(SSC+2028);"/>
 </div>
 
 
