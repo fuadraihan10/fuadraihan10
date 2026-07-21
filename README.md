@@ -98,8 +98,6 @@ alt="GitHub Profile Details"
 
 <img src="https://komarev.com/ghpvc/?username=fuadraihan10&style=for-the-badge&color=brightgreen" alt="Profile Views">
 &nbsp;
-<img src="https://img.shields.io/github/followers/fuadraihan10?style=for-the-badge&color=blue" alt="GitHub Followers">
-&nbsp;
-<img src="https://img.shields.io/github/stars/fuadraihan10?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars">
+
 
 </div>
