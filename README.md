@@ -73,10 +73,6 @@ alt="GitHub Streak Stats"
 
 ### 📊 GitHub Statistics
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuadraihan10&theme=radical"
-alt="Repositories Per Language"
-/>
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuadraihan10&theme=radical"
@@ -98,6 +94,8 @@ alt="GitHub Profile Details"
 
 <img src="https://komarev.com/ghpvc/?username=fuadraihan10&style=for-the-badge&color=brightgreen" alt="Profile Views">
 &nbsp;
-
+<img src="https://img.shields.io/github/followers/fuadraihan10?style=for-the-badge&color=blue" alt="GitHub Followers">
+&nbsp;
+<img src="https://img.shields.io/github/stars/fuadraihan10?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars">
 
 </div>
